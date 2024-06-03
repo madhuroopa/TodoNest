@@ -41,7 +41,7 @@ To get started with this project, follow these steps:
 
 - **React Hooks:** Used `useState`, `useEffect`, and `useContext` for managing state and side effects.
 - **Components:** Created functional components to encapsulate UI elements and logic.
-- **TypeScript:** Utilized TypeScript for static type-checking and defining interfaces.
+- **TypeScript:** Utilized TypeScript for static type-checking and defining react component props as interfaces.
 
 
 ## Contributing
